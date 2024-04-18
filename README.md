@@ -1,13 +1,13 @@
-# <Título do projeto>
+# Heart Disease
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+A doença cardiovascular afeta o coração e os vasos sanguíneos. O diagnóstico é geralmente feito por meio de exames como eletrocardiograma, ecocardiograma e análise de lipídios no sangue, os quais podem variar em custo, sendo alguns acessíveis e outros mais caros. Além disso, podem ser considerados trabalhosos para os pacientes. Visando melhorar a qualidade de vida dos envolvidos, nosso projeto tem como objetivo entregarmos uma predisposição de doenças cardiovasculares baseadas em uma entrada de dados que costumam apontar a existência dessas doenças. Utilizaremos o conjunto de dados [Heart Disease](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset) para o desenvolvimento do projeto. 
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+ - [Bruno Matsuyama Pereira Takazono](https://github.com/brunotakazono/brunotakazono)
+ - [João Guilherme Pinto Souza do Nascimento]()
+ - [Lucas Maurício Braga](https://github.com/LuksMB)
+ - [Sarah Andrade Reis]()
+ - [Pedro Vitor Lima Cavalcante](https://github.com/pedrovlcavalcante)
 
 ---
 
