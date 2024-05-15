@@ -7,8 +7,6 @@ A doença cardiovascular afeta o coração e os vasos sanguíneos. O diagnóstic
 
 ## Desenvolvedores
  - [Bruno Matsuyama Pereira Takazono](https://github.com/brunotakazono/brunotakazono)
- - [João Guilherme Pinto Souza do Nascimento]()
  - [Lucas Maurício Braga](https://github.com/LuksMB)
- - [Sarah Andrade Reis]()
  - [Pedro Vitor Lima Cavalcante](https://github.com/pedrovlcavalcante)
 ---
